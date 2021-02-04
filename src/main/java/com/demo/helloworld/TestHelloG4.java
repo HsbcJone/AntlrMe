@@ -12,6 +12,8 @@ import org.antlr.v4.runtime.tree.ParseTreeWalker;
  * 概念文章
  * https://zhuanlan.zhihu.com/p/114982293
  * 词法分析器 (Lexer) -> 语法解析器 (Parser)
+ * 实战的Demo
+ * https://blog.csdn.net/sunquan291/article/details/71541553
  */
 public class TestHelloG4 {
     public static void main(String[] args) {
